@@ -25,8 +25,8 @@ console.log(choice);
 
 let x = 3;
 const y = ++x;
-console.log(x,y);
+console.log(x,y);// 4 4
 
 let m = 3;
 const n = m++;
-console.log(m,n);
+console.log(m,n);// 4 3
